@@ -1,6 +1,3 @@
-Here’s an improved version of your **README**, with better structure, clarity, and academic tone, while preserving all your original content and intent:
-
----
 
 # **MusGen**
 
@@ -127,6 +124,4 @@ Unlike conventional ML tasks, music generation requires **domain-specific evalua
 
 MusGen aims to bridge the gap between deep learning and structured music composition. By incorporating music theory and structural modeling techniques, the project aspires to generate musically rich and meaningful compositions that go beyond simple note sequences.
 
----
 
-Let me know if you'd like a LaTeX-formatted version, GitHub-compatible Markdown, or a brief version for presentation slides.
